@@ -262,17 +262,17 @@ void removerRN(arn *T, tno *z) {
         x = z->esq;
         transplantar(T, z, x);
     } else {
-        y = z->dir;
-        while (y->esq != T->nulo)
-            y = y->esq;
-        x = y->dir;
+        y = z->esq;
+        while (y->dir != T->nulo) // Encontrar o predecessor
+            y = y->dir;
+        x = y->esq;
         corOrigy = y->cor;
         transplantar(T, y, x);
 
-        y->esq = z->esq;
-        z->esq->pai = y;
         y->dir = z->dir;
         z->dir->pai = y;
+        y->esq = z->esq;
+        z->esq->pai = y;
         transplantar(T, z, y);
         y->cor = z->cor;
     }
