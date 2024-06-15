@@ -1,0 +1,3 @@
+C:/Users/larab/OneDrive/Documents/UNIFEI 2024/Algoritmos II/Trabalho Arvores/cmake-build-debug/CMakeFiles/Trabalho_Arvores.dir
+C:/Users/larab/OneDrive/Documents/UNIFEI 2024/Algoritmos II/Trabalho Arvores/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/larab/OneDrive/Documents/UNIFEI 2024/Algoritmos II/Trabalho Arvores/cmake-build-debug/CMakeFiles/rebuild_cache.dir

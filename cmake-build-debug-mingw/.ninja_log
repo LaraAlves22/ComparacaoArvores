@@ -1,0 +1,10 @@
+# ninja log v6
+21	181	7401613770732861	CMakeFiles/Trabalho_Arvores.dir/main.c.obj	4c22e4401add65b3
+2	272	7401653196566319	build.ninja	112bb12c84ba8b61
+24	237	7401611679619183	CMakeFiles/Trabalho_Arvores.dir/avl.c.obj	9c8f9eb6e322195b
+182	331	7401613772342771	Trabalho_Arvores.exe	8c80917fad1997a3
+26	182	7401613770785918	CMakeFiles/Trabalho_Arvores.dir/arn.c.obj	38c6b4d0ab413684
+11	205	7401653376964456	CMakeFiles/Trabalho_Arvores.dir/main.c.obj	b4a9449dfa4b71b4
+5	208	7401653376901859	CMakeFiles/Trabalho_Arvores.dir/avl.c.obj	5adf33cfed0a4098
+16	209	7401653377009868	CMakeFiles/Trabalho_Arvores.dir/arn.c.obj	c592ed6c51ad80c6
+209	357	7401653378950161	Trabalho_Arvores.exe	8c80917fad1997a3
